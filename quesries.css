@@ -1,0 +1,16 @@
+@media(max-width: 768px){
+    .landing{
+        flex-direction: column;
+    }
+    .mainparagraph{
+        font-size: 4.4rem;
+        /* white-space: pre-line; */
+    }
+    .logos{
+       flex-direction: column;
+       background: #000124;
+    }
+    #logs{
+        width: 10%;
+    }
+}
